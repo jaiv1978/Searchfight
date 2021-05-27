@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Searchfight.App": {
+      "commandName": "Project",
+      "commandLineArgs": "batman robin \"the flash\""
+    }
+  }
+}

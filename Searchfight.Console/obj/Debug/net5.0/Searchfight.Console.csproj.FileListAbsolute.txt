@@ -1,0 +1,5 @@
+C:\informacion\projectos\Searchfight\Searchfight.Console\obj\Debug\net5.0\Searchfight.Console.csprojAssemblyReference.cache
+C:\informacion\projectos\Searchfight\Searchfight.Console\obj\Debug\net5.0\Searchfight.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\informacion\projectos\Searchfight\Searchfight.Console\obj\Debug\net5.0\Searchfight.Console.AssemblyInfoInputs.cache
+C:\informacion\projectos\Searchfight\Searchfight.Console\obj\Debug\net5.0\Searchfight.Console.AssemblyInfo.cs
+C:\informacion\projectos\Searchfight\Searchfight.Console\obj\Debug\net5.0\Searchfight.Console.csproj.CoreCompileInputs.cache

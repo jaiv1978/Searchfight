@@ -1,0 +1,12 @@
+C:\informacion\projectos\Searchfight\Searchfight.Core\bin\Debug\net5.0\Searchfight.Core.deps.json
+C:\informacion\projectos\Searchfight\Searchfight.Core\bin\Debug\net5.0\Searchfight.Core.dll
+C:\informacion\projectos\Searchfight\Searchfight.Core\bin\Debug\net5.0\ref\Searchfight.Core.dll
+C:\informacion\projectos\Searchfight\Searchfight.Core\bin\Debug\net5.0\Searchfight.Core.pdb
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.AssemblyInfoInputs.cache
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.AssemblyInfo.cs
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.csproj.CoreCompileInputs.cache
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.dll
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\ref\Searchfight.Core.dll
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.pdb
+C:\informacion\projectos\Searchfight\Searchfight.Core\obj\Debug\net5.0\Searchfight.Core.csprojAssemblyReference.cache

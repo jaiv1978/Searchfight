@@ -1,0 +1,15 @@
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\Searchfight.Core.dll
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.csprojAssemblyReference.cache
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.AssemblyInfoInputs.cache
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.AssemblyInfo.cs
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\Searchfight.Service.deps.json
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\Searchfight.Service.dll
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\ref\Searchfight.Service.dll
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\Searchfight.Service.pdb
+C:\informacion\projectos\Searchfight\Searchfight.Service\bin\Debug\net5.0\Searchfight.Core.pdb
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.csproj.CoreCompileInputs.cache
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.csproj.CopyComplete
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.dll
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\ref\Searchfight.Service.dll
+C:\informacion\projectos\Searchfight\Searchfight.Service\obj\Debug\net5.0\Searchfight.Service.pdb
